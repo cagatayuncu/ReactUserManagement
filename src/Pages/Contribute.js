@@ -5,7 +5,7 @@ import React from 'react'
         <div className="card" >
         <div className="card-header d-flex justify-content-between" style={{backgroundColor:"black",color:"white"}} >
           <h4 className="d-inline">
-          Project Files and Contribute to Project
+          Project Files and Contribute to Project.
           </h4>
         </div>
           <div className="card-body">
