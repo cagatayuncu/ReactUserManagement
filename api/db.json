@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Çağatay Uncu",
+      "adres": "İstanbul",
+      "department": "IT",
+      "id": 1
+    },
+    {
+      "name": "Adnan Güler",
+      "adres": "İzmit",
+      "department": "IT",
+      "id": 2
+    },
+    {
+      "name": "Soner Demir",
+      "adres": "Gebze",
+      "department": "IT",
+      "id": 3
+    },
+    {
+      "name": "Muhammed Ali Şahin",
+      "adres": "Gölcük",
+      "department": "IT",
+      "id": 4
+    },
+    {
+      "name": "İrfan Bayraktar",
+      "adres": "İstanbul",
+      "department": "IT",
+      "id": 5
+    }
+  ]
+}
