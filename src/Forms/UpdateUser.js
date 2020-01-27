@@ -82,7 +82,7 @@ class UpdateUser extends Component {
                           {
                             error ? 
                             <div className = "alert alert-danger">
-                               Lütfen eksik bilgilerinizi kontrol edin.
+                               Lütfen eksik bilgilerinizi kontrol ediniz.
                             </div>
                             :null
                          }
